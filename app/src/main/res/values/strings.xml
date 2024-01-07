@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eLekar</string>
+    <string name="nav_header_subtitle">Zakazivanje pregleda</string>
+    <string name="nav_header_desc">Navigaciono zaglavlje</string>
+    <string name="menu_home">Lista pregleda</string>
+    <string name="menu_doctor">Izabrani lekar</string>
+    <string name="menu_help">Pomoć</string>
+    <string name="lbo_input">Unesite vaš LBO</string>
+    <string name="login">Prijavljivanje</string>
+    <string name="lbo_bzk">********%1$s</string>
+    <string name="last_refresh">Poslednje ažuriranje: %1$s</string>
+    <string name="doctor_name_surname">%1$s %2$s</string>
+    <string name="examination_date">Datum pregleda: %1$s</string>
+    <string name="examination_time">Vreme pregleda: %1$s</string>
+    <string name="scheduling_examination">Zakažite pregled</string>
+    <string name="help_text">
+        Mobilna aplikacija služi za zakazivanje pregleda kod izabranog lekara.\n\n
+        Da bi ste koristili usluge mobilne aplikacije najpre se morate identifikovati unosom LBO-a i Broj Kartice Zdravstvenog osiguranja (BZK).\n\n
+        Nakon uspešne prijave na mobilnoj aplikaciji, možete pristupiti listi svojih izabranih lekara.\n\n
+        Izborom odgovarajućeg lekara i klikom na Zakaži pregled pristupate kalendaru aktivnosti Vašeg izabranog lekara.\n\n
+        Odaberite odgovarajući datum i klikom na slobodni termin isti rezervišite.\n\n
+        Nakon toga možete pristupiti listi budućih zakazanih pregleda kod izabranog lekara.
+    </string>
+    <string name="lbo_help">Šta predstavlja LBO i gde ga mogu pronaći?</string>
+    <string name="next">Dalje</string>
+    <string name="lbo_image">LBO slika</string>
+    <string name="app_icon">Ikonica aplikacije</string>
+    <string name="lbo_hint">Unesite vaš LBO</string>
+    <string name="bzk_help">Šta predstavlja broj kartice zdravstvenog osiguranja (BZK) i gde ga mogu pronaći?</string>
+    <string name="bzk_hint">Unesite vaš BZK</string>
+    <string name="confirm">Potvrdi</string>
+    <string name="chose_time">Izaberite vreme</string>
+    <string name="chose_date">Izaberite datum</string>
+    <string name="chose_term">Izaberite termin</string>
+    <string name="doctor_image">Slika doktora</string>
+    <string name="date_image">Slika datuma</string>
+    <string name="time_image">Slika vremena</string>
+    <string name="title_help">eLEKAR ANDROID MOBILNA APLIKACIJA</string>
+    <string name="no_examination">Trenutno nemate zakazanih pregleda!</string>
+    <string name="lbo_help_title">LBO</string>
+    <string name="bzk_help_title">BZK</string>
+    <string name="lbo_help_text">
+        Lični broj osiguranika (LBO) određuje se svakom osiguraniku prilikom prijave
+        zdravstvenog osiguranja u matičnoj filijali. LBO sadrži 11 cifara, određuje se osiguraniku samo jednom - trajno i
+        isti je nepromenljiv. Isti se nalazi na zdravstvenoj knjižici.</string>
+    <string name="bzk_help_text">
+        Broj kartice zdravstvenog osiguranja (BZK) određuje se prilikom izdavanja same kartice od strane matične filijale.
+        Isti se nalazi na poleđini kartice zdravstvenog osiguranja na strani gde se nalazi i ČIP.
+    </string>
+    <string name="invalid_bzk">BZK nije validan!</string>
+    <string name="invalid_lbo">LBO nije validan!</string>
+    <string name="logout">Odjavljeni ste</string>
+    <string name="invalid_date">Pregled možete zakazati samo radnim danima!</string>
+    <string name="logout_account">Da li ste sigurni da želite da se odjavite?</string>
+    <string name="logout_title">Odjava</string>
+    <string name="cancel_examination">Otkažite pregled</string>
+    <string name="examination_canceled">Pregled je otkazan!</string>
+    <string name="institution">Institucija</string>
+    <string name="invalid_term">Izabrani termin je zauzet!</string>
+    <string name="cancel_examination_title">Otkazivanje pregleda</string>
+    <string name="cancel_examination_message">Da li ste sigurni da želite da otkažete pregled?</string>
+    <string name="login_message">Uspešno prijavljivanje!</string>
+    <string name="examination_added">Pregled je uspešno zakazan!</string>
+    <string name="institution_name">Institucija: %1$s</string>
+    <string name="examination_date_day">%1$s, %2$s</string>
+    <string name="sunday">Nedelja</string>
+    <string name="monday">Ponedeljak</string>
+    <string name="tuesday">Utorak</string>
+    <string name="wednesday">Sreda</string>
+    <string name="thursday">Četvrtak</string>
+    <string name="friday">Petak</string>
+    <string name="saturday">Subota</string>
+    <string name="email_doctor">Pošaljite poruku lekaru</string>
+    <string name="covid_19_bot">COVID-19 bot</string>
+    <string name="send_message">Pošaljite poruku</string>
+    <string name="enter_message">Unesite tekst poruke</string>
+    <string name="start_bot">Pokrenite bota</string>
+    <string name="bot_text">COVID-19 bot može pružiti odgovore na neka osnovna pitanja o zaraznoj bolesti COVID-19.</string>
+</resources>
